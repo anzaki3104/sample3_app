@@ -9,6 +9,7 @@ gem 'bcrypt-ruby', '3.1.2'
 
 gem 'bcrypt'
 
+gem 'factory_girl_rails', '4.2.1'
 
 # Use sqlite3 as the database for Active Record
 
